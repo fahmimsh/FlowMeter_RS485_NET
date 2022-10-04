@@ -1,0 +1,13 @@
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\bin\Debug\FlowMeterPulseGUI.exe.config
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\bin\Debug\FlowMeterPulseGUI.exe
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\bin\Debug\FlowMeterPulseGUI.pdb
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\bin\Debug\EasyModbus.dll
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\bin\Debug\EasyModbus.xml
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.csprojAssemblyReference.cache
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.Form1.resources
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.Properties.Resources.resources
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.csproj.GenerateResource.cache
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.csproj.CoreCompileInputs.cache
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.csproj.CopyComplete
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.exe
+C:\Users\Fahmi_Mashuri\source\repos\FlowMeterPulseGUI\FlowMeterPulseGUI\obj\Debug\FlowMeterPulseGUI.pdb
